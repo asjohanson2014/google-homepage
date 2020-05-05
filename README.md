@@ -1,0 +1,1 @@
+In this project we will be using HTML and CSS to create a non-funtioning clone of the Google homepage.
